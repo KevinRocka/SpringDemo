@@ -1,24 +1,7 @@
-## Spring
-
-#### AOP 面向切面编程
-
-##### 前言
-
-1. 面向切面编程是一种编程范式，不是编程语言；
-2. 是一种解决特殊问题的方式，不能解决所有的问题
-3. 是面向对象编程OOP(封装、继承、堕胎)的一种补充。
+## Spring 学习Demo
 
 
-#### 好处
 
-1. DRY(Dont Repeat Yourself): 不要重复代码，高度解耦
-2. SOC(Separation of Contents): 分离内容
-	* 水平分离：展示层-》服务层-》持久层
-	* 垂直分离：模块的划分
-	* 切面分离：切面编程是将功能性需求和非功能性需求分离出来
-3. 集中处理某一特定的逻辑
-4. 可侵入性少，可以增加代码的可读性和可维护性
-
-#### 使用场景
-
-例如：权限控制，缓存控制，事务控制，审计日志，性能监控，异常处理，分布式追踪等基本上是非功能性的需求。
+1. [Spring之初识Spring MVC](https://kevinrocka.github.io/2018/10/22/spring_spring_mvc/)
+2. [Spring之Spring注解与数据绑定](https://kevinrocka.github.io/2018/11/03/spring_spring_anno/)
+3. [Spring之面向切面编程AOP](https://kevinrocka.github.io/2018/11/08/spring_spring_aop/)
